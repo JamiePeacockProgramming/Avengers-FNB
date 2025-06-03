@@ -1,0 +1,106 @@
+
+/*==Div id Gallery image width==*/
+.Gallery img{
+    width: 100%; /* Width set to use 100% of the screen width from end to end */
+}
+/*==H4 styling==*/
+h4{
+    text-decoration: none; /* Removes any decoration on text eg. strikethrough or underlining*/
+    font-family: impact, fantasy; /* selects font to use for text displayed */
+    font-size: 20px; /* adjust font size  */
+    font-style: italic; /* adjust font style eg bold, italic */
+    color: cornflowerblue; /* adjust color of text */ 
+    padding: 5px; /* adjust padding around text */
+    text-align: center; /* adjust text alignment eg left, right, center, justify */
+}
+
+/*==H2 styling==*/
+h2{
+    text-align: center; /* adjust text alignment eg left, right, center, justify */
+    color: cornflowerblue; /* adjust color of text */ 
+    font-family: impact, fantasy; /* selects font to use for text displayed */
+    font-size: 20px; /* adjust font size  */
+    font-style: italic; /* adjust font style eg bold, italic */
+}
+
+/*==div id menu styling==*/
+#menu{
+    width: 100%; /* Width set to use 100% of the screen width from end to end */
+    height: 40px; /* height set on menu items using pixel values */
+    background-color: cornflowerblue; /* Adjust background color, you can even user hex values, rgb values and hsl values */
+    padding-top: 12px; /* adjust padding around text */
+}
+
+/*==div id menu hyperlink styling==*/
+#menu a{
+    color: white; /* adjust color of text */ 
+    font-family: Arial, Helvetica, sans-serif; /* selects font to use for text displayed */
+    text-decoration: none; /* Removes any decoration on text eg. strikethrough or underlining*/
+    font-weight: 800; /* Adding weight adjusts the thickness on lettering in the text */
+    padding-left: 20px;  /* adjust padding on the left of the text */
+    padding-right: 20px;  /* adjust padding on the right of the text */
+}
+
+/*==div id menu hyperlink styling==*/
+#menu a:hover{
+    color: #5077bd; /* Adjusts the color of the hyperlink when mouse is left hovering over the text */
+}
+
+/*==Hyperlink styling==*/
+a{
+    text-decoration: none; /* Removes any decoration on text eg. strikethrough or underlining*/
+}
+
+/*==div id next styling==*/
+#next{
+    width: 100%; /* Width set to use 100% of the screen width from end to end */
+    height: 40px; /* height set on menu items using pixel values */
+    background-color: cornflowerblue;  /* Adjust background color, you can even user hex values, rgb values and hsl values */
+    padding-top: 12px;  /* adjust padding on top of the text */
+    text-align: center;  /* adjust text alignment eg left, right, center, justify */
+    padding-bottom: 28px; /* adjust padding below the text */
+}
+
+/*==div id next hyperlink styling==*/
+#next a{
+    color: white; /* adjust color of text */ 
+    font-family: Arial, Helvetica, sans-serif; /* selects font to use for text displayed */
+    font-size: 18px;  /* adjust font size  */
+    text-decoration: none;  /* Removes any decoration on text eg. strikethrough or underlining*/
+    font-weight: 800; /* Adding weight adjusts the thickness on lettering in the text */
+    padding-left: 20px; /* adjust padding on the left of the text */
+    padding-right: 20px;  /* adjust padding on the right of the text */
+    text-align: center; /* adjust text alignment eg left, right, center, justify */
+}
+
+/*==div id next hyperlink styling==*/
+#next a:hover{
+    color: #5077bd; /* Adjusts the color of the hyperlink when mouse is left hovering over the text */
+}
+
+/*==home styling==*/
+#home{
+    width: 100%; /* Width set to use 100% of the screen width from end to end */
+    height: 40px; /* height set on menu items using pixel values */
+    background-color: cornflowerblue; /* Adjust background color, you can even user hex values, rgb values and hsl values */
+    padding-top: 12px;  /* adjust padding on top of the text */
+    text-align: center;  /* adjust text alignment eg left, right, center, justify */
+    padding-bottom: 28px; /* adjust padding below the text */
+}
+
+/*==home hyplerlink styling==*/
+#home a{
+    color: white; /* adjust color of text */ 
+    font-family: Arial, Helvetica, sans-serif; /* selects font to use for text displayed */
+    font-size: 18px;  /* adjust font size  */
+    text-decoration: none; /* Removes any decoration on text eg. strikethrough or underlining*/
+    font-weight: 800; /* Adding weight adjusts the thickness on lettering in the text */
+    padding-left: 20px; /* adjust padding on the left of the text */
+    padding-right: 20px;  /* adjust padding on the right of the text */
+    text-align: right; /* adjust text alignment eg left, right, center, justify */
+}
+
+/*==home hyplerlink styling==*/
+#home a:hover{
+    color: #5077bd; /* Adjusts the color of the hyperlink when mouse is left hovering over the text */
+}
